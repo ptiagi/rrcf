@@ -345,3 +345,5 @@ If you have used this codebase in a publication and wish to cite it, please use 
   year={2019}
 }
 ```
+
+# Contributor
